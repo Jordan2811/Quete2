@@ -1,0 +1,14 @@
+{
+    margin: 0;
+    padding: 0;
+    background-color: grey;
+    }
+
+
+
+    @media (min-width: 200px) {
+        .container-fluid {
+            column-count: 3;
+        }
+    
+    }
